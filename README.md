@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I am Đức (Duclv623)</h1>
+<h3 align="center">A passionate Backend Developer from Vietnam</h3>
 
-<!--
-**Duclv623/Duclv623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://komarev.com" alt="Duclv623" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack:
+- 💻 Languages: JavaScript, Python, Java
+- 🌐 Frontend: React.js, Next.js, Tailwind CSS
+- 🗄️ Backend: Spring Boot, Node.js, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://vercel.app" alt="Top Langs" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
+### 📫 How to reach me:
+- 💼 LinkedIn: [Đức Lê Văn](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-l%C3%AA-v%C4%83n-698a1537b/)
+- 📧 Email: levanduc06022003@gmail.com
